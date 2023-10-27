@@ -1,1 +1,3 @@
 # Sales_portfolio_project
+
+Initial data analysis and manipulation was done in MySQL server.  Later cross checked the results in PowerBI visualizations. Gained insights on KPIs like Total revenue and total sales quatity as well as found out the top 5 products and customers for the business. Also found out the revenue and sales quantity by market at different times. Also  made a line chart to depict the revenue trend.The descriptive analysis made on the dataset will be helpful for the stakeholders to make better business decisions to maximize their profit and come up with better marketing strategies.
